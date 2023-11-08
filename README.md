@@ -28,4 +28,4 @@ This project focuses on building a user friendly website where it displays the b
     
 
 ## Authors:
-    @Aishagul @ctuzelov
+    @Aishagul
